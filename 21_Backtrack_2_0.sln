@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_Backtrack_2_0", "21_Backtrack_2_0\21_Backtrack_2_0.csproj", "{41A97A79-055E-411E-BB32-7C31E927F6AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41A97A79-055E-411E-BB32-7C31E927F6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41A97A79-055E-411E-BB32-7C31E927F6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41A97A79-055E-411E-BB32-7C31E927F6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41A97A79-055E-411E-BB32-7C31E927F6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEE29BCF-391C-4B4F-A4EA-DE75DCB21451}
+	EndGlobalSection
+EndGlobal
